@@ -1,0 +1,1 @@
+Uso: perl passwd2Tmpl <archivo_de_passwd>
